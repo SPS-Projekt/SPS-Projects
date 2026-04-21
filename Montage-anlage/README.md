@@ -17,3 +17,14 @@ Automatisierte Fertigungs- und Montageanlage, umgesetzt mit Siemens TIA Portal (
 
 ## Hinweis
 Projekt im Rahmen der Weiterbildung umgesetzt.
+
+## Screenshots
+
+### Anlage (Factory IO)
+![Anlage](montage-Overview.png)
+
+### HMI (WinCC)
+![HMI](montage-hmi.png)
+
+### Programm (TIA Portal)
+![Code](montage-code.png)
