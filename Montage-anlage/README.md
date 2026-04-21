@@ -21,10 +21,10 @@ Projekt im Rahmen der Weiterbildung umgesetzt.
 ## Screenshots
 
 ### Anlage (Factory IO)
-![Anlage](Montage-Overview.png)
+![Anlage](Montage-Overview.PNG)
 
 ### HMI (WinCC)
-![HMI](Montage-hmi.png)
+![HMI](Montage-hmi.PNG)
 
 ### Programm (TIA Portal)
-![Code](Montage-code.png)
+![Code](Montage-code.PNG)
