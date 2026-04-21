@@ -17,3 +17,7 @@ Automatisierte Sortieranlage zur Erkennung und Trennung von Bauteilen nach Farbe
 
 ## Hinweis
 Projekt im Rahmen der Weiterbildung umgesetzt.
+
+## Screenshots
+###[Anlage](Sortierung-overview.PNG)
+###[Code](Sortierung-code.PNG)
