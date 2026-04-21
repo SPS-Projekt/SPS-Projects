@@ -1,7 +1,7 @@
 # Fertigungs- und Montageanlage
 
 ## Beschreibung
-Automatisierte Fertigungs- und Montageanlage, umgesetzt mit Siemens TIA Portal (S7-1500).
+Automatisierte Fertigungs- und Montageanlage, umgesetzt mit Siemens TIA Portal (S7-300).
 
 ## Funktionen
 - Steuerung von Ober- und Unterteilen
@@ -11,8 +11,8 @@ Automatisierte Fertigungs- und Montageanlage, umgesetzt mit Siemens TIA Portal (
 
 ## Technologien
 - TIA Portal
-- S7-1500
-- WinCC Unified
+- S7-300
+- WinCC Advanced
 - Factory IO
 
 ## Hinweis
