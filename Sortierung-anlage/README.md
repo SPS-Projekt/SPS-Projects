@@ -12,7 +12,7 @@ Automatisierte Sortieranlage zur Erkennung und Trennung von Bauteilen nach Farbe
 
 ## Technologien
 - TIA Portal
-- S7-1500
+- S7-300
 - Factory IO
 
 ## Hinweis
